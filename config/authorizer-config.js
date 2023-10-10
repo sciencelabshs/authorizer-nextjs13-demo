@@ -1,5 +1,5 @@
 export default {
-  authorizerURL: 'https://demo.authorizer.dev',
+  authorizerURL: 'https://home-auth.sciencelabshs.com/',
   redirectURL: 'http://localhost:3000',
-  clientID: '96fed66c-9779-4694-a79a-260fc489ce33',
+  clientID: '36c72ba4-b7cc-4859-8353-90f2c8e3769c',
 };
